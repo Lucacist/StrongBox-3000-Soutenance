@@ -1,4 +1,5 @@
-// Déclaration des fonctions
+// Equipe 7: CESI de Rouen
+
 String toString(double value);
 int toInt(String text);
 double toDouble(String text);
